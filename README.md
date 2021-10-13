@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yanhy2000&count_private=true&include_all_commits=true"/>
 <!--
 **yanhy2000/yanhy2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
