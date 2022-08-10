@@ -9,4 +9,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanhy2000&locale=cn&layout=compact"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanhy2000&locale=cn&layout=compact)](https://github.com/yanhy2000)
