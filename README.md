@@ -1,6 +1,7 @@
 ### Hi there , I'm Yanhy2000🎉🎉🎉
 
 [![](https://img.shields.io/badge/Play-Minecraft%20Bedrock-33aadd?style=flat-square&logo=minecraft&logoColor=ffffff)](https://minecraft.net/)
+[![](https://img.shields.io/badge/Play-Minecraft%20JE-33aadd?style=flat-square&logo=minecraft&logoColor=ffffff)](https://minecraft.net/)
 
 - 📧My Email📧:[winyanhy@outlook.com](mailto:winyanhy@outlook.com)
 - 📱My QQ-Num📱:2805214723
